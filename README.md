@@ -1,6 +1,6 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
 ### DATE: 13-05-2025
-### Reg No : 212223240130
+### Reg No : 212223230237
 ### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ### Description: 
 <div align = "justify">
